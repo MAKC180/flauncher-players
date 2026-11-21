@@ -14,6 +14,11 @@
       "nick": "HE_MAKC",
       "salt": "8098ad9f30a18c28b15dc3cf54e4154f",
       "hash": "4febd7c8e62485a2e7ab06dad4cfea4a4488b6c07ac1638d77532ba45a58ebbf"
+    },
+    {
+      "nick": "PIDOR",
+      "salt": "7517594229f9fca375cc4a5917762d75",
+      "hash": "35791d81260e0662a45a95291ee9c2c2038e3c28c35df7ff0f378e7baa6e5449"
     }
   ]
 }
