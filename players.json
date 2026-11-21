@@ -4,6 +4,11 @@
       "nick": "HE_MAKC",
       "salt": "8098ad9f30a18c28b15dc3cf54e4154f",
       "hash": "4febd7c8e62485a2e7ab06dad4cfea4a4488b6c07ac1638d77532ba45a58ebbf"
+    },
+    {
+      "nick": "ZZZ",
+      "salt": "803179dc459a7f52d1951766454690cb",
+      "hash": "141f12c821dd71ea9efe1d897d932004a142ed8a14a93a45828e49378e2a0ce0"
     }
   ]
 }
