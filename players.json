@@ -1,6 +1,11 @@
 {
   "players": [
     {
+      "nick": "Flauncher_Test",
+      "salt": "a34c963529d70e5b247dc5fd6b3d541a",
+      "hash": "a4d06c3eea202329e98bf2faeb08ce2bb52ff0e325dc75d1f6142b58f70fd129"
+    },
+    {
       "nick": "HE_MAKC",
       "salt": "8098ad9f30a18c28b15dc3cf54e4154f",
       "hash": "4febd7c8e62485a2e7ab06dad4cfea4a4488b6c07ac1638d77532ba45a58ebbf"
