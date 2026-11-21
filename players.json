@@ -1,0 +1,9 @@
+{
+  "players": [
+    {
+      "nick": "HE_MAKC",
+      "salt": "8098ad9f30a18c28b15dc3cf54e4154f",
+      "hash": "4febd7c8e62485a2e7ab06dad4cfea4a4488b6c07ac1638d77532ba45a58ebbf"
+    }
+  ]
+}
