@@ -1,6 +1,11 @@
 {
   "players": [
     {
+      "nick": "Foxy_game777",
+      "salt": "3954a3be811e122a9d4953b192ddeb60",
+      "hash": "510f7464b392fddeaeda16bb8570008c01539a111fb44d48b5ef1dac438e9ef8"
+    },
+    {
       "nick": "HE_MAKC",
       "salt": "8098ad9f30a18c28b15dc3cf54e4154f",
       "hash": "4febd7c8e62485a2e7ab06dad4cfea4a4488b6c07ac1638d77532ba45a58ebbf"
