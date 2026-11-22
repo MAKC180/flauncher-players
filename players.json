@@ -24,6 +24,11 @@
       "nick": "PIDOR",
       "salt": "7517594229f9fca375cc4a5917762d75",
       "hash": "35791d81260e0662a45a95291ee9c2c2038e3c28c35df7ff0f378e7baa6e5449"
+    },
+    {
+      "nick": "rokki200031",
+      "salt": "89b70e948926b5d288bf366e7a6d049b",
+      "hash": "e0ff878d1257997ea05efd1e6a2c128128f170f6da956cd07fa53e2d2b530d81"
     }
   ]
 }
