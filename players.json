@@ -21,6 +21,11 @@
       "hash": "c6e483646f2dc6e1eeea341d01859aa9f43b15f32c06fb2e34f4fc2fbd77d08c"
     },
     {
+      "nick": "Misha",
+      "salt": "67954ca6e61dc13b10b7226cdc352c7e",
+      "hash": "a4ea58248c856335d64829236e1a7a62e9d0652a4ad66db7f9c03846fa21e449"
+    },
+    {
       "nick": "PIDOR",
       "salt": "7517594229f9fca375cc4a5917762d75",
       "hash": "35791d81260e0662a45a95291ee9c2c2038e3c28c35df7ff0f378e7baa6e5449"
