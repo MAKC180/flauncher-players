@@ -34,6 +34,11 @@
       "nick": "rokki200031",
       "salt": "89b70e948926b5d288bf366e7a6d049b",
       "hash": "e0ff878d1257997ea05efd1e6a2c128128f170f6da956cd07fa53e2d2b530d81"
+    },
+    {
+      "nick": "Sward1g1",
+      "salt": "06a1958927269e9ebc698f6554a0cb0d",
+      "hash": "b2cc12d8ecab1970a9653c0abd22042c877d2346d9080a971f92ecb71b289265"
     }
   ]
 }
