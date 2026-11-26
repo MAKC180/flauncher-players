@@ -21,6 +21,11 @@
       "hash": "c6e483646f2dc6e1eeea341d01859aa9f43b15f32c06fb2e34f4fc2fbd77d08c"
     },
     {
+      "nick": "kata_krytaya",
+      "salt": "b7e53eba8e05367a2451bfcadb96007e",
+      "hash": "9fd67038de168d6292d84b89bd5c545afd1cfd9916870619671abaef1cc94f64"
+    },
+    {
       "nick": "Misha",
       "salt": "67954ca6e61dc13b10b7226cdc352c7e",
       "hash": "a4ea58248c856335d64829236e1a7a62e9d0652a4ad66db7f9c03846fa21e449"
