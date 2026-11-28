@@ -44,6 +44,11 @@
       "nick": "Sward1g1",
       "salt": "06a1958927269e9ebc698f6554a0cb0d",
       "hash": "b2cc12d8ecab1970a9653c0abd22042c877d2346d9080a971f92ecb71b289265"
+    },
+    {
+      "nick": "Swardg1f1",
+      "salt": "2e62d6ab14bf4d29f13961ef53f706ac",
+      "hash": "1d97537aede8730afad1c3f30d4cea543b875e0c4e048f54a6bb3cba90a5607c"
     }
   ]
 }
